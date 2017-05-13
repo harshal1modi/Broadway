@@ -3,23 +3,23 @@ body{
   text-align: center;
 }
 
-.section-1{
+.section-1 {
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
 }
 
-.title{
+.title {
   font-size: 70px;
   font-weight: bold;
-  color:white;
+  color: white;
 }
 
-.links{
+.links {
   color: white;
   font-size: 18px;
 }
 
-.process{
+.process {
   font-size: 32px;
   font-weight: bold;
 }
@@ -27,24 +27,24 @@ body{
 .methods,
  .portfolio,
  .team,
- .contact{
+ .contact {
   font-size: 23px;
-  font-weeight: bold;
+  font-weight: bold;
   }
 
-p{
+p {
     font-size: 14px;
   }
 
-.designed{
+.designed {
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
-  font-size: 23px
+  font-size: 23px;
   font-weight: bold;
-  color:white;
+  color: white;
 }
-.copyright{
-  color:white;
+.copyright {
+  color: white;
   font-size: 11px;
   background-color: dimgray;
   text-align: left;
